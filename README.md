@@ -59,6 +59,18 @@ pnet/
 
 3. El estado de los equipos se mostrará en la interfaz visual mediante iconos de estado.
 
+4. Al hacer doble-click en el nombre de una de los elementos de red, aparecerá una ventana que le permitirá cambiar el nombre y el IP del elemento, mantenimiendo el formato nombre@IP. Estos cambios se almacenarán en el archivo dispositivo.json.
+
+<img width="324" height="145" alt="image" src="https://github.com/user-attachments/assets/83ea9a60-a64e-4420-bc8e-2d73301ed920" />
+
+5. Al hacer doble-click en la casilla del tiempo de muestreo, inicialmente con el valor de 8 segundos, aparecerá una ventana que le permitirá cambiar el tiempo de muestreo. Introducir un valor en segundos. Se recomienda que el tiempo míno no sea menor a los 630 segundos para un monitoreo contínuo.
+
+<img width="327" height="150" alt="image" src="https://github.com/user-attachments/assets/0050a477-99c9-4d47-a590-c021dd2eabef" />
+
+6. El botón "REFRESCAR" ejecutará un monitoreo completo de la red en el momento que se presiones, poniendo a cero el contador del tiempo transcurrido.
+
+<img width="125" height="45" alt="image" src="https://github.com/user-attachments/assets/e21cae63-28fd-4fe4-8e7e-2c38942e8ad4" />
+
 ## Autor
 
 Joseba Izaga
