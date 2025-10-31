@@ -43,13 +43,17 @@ Su propósito es ofrecer una forma sencilla y visual de verificar la disponibili
 
 3. Ejecuta el archivo principal pnet.pde.
 
-pnet/  
+pnet  
 │  
 ├── pnet.pde # Archivo principal del programa  
 ├── funciones.pde # Funciones auxiliares utilizadas por la aplicación  
 ├── pantallas.pde # Gestión de las pantallas e interfaz gráfica  
 │  
-└── data/ # Recursos gráficos (iconos, logotipos y elementos visuales)
+└── data/ # Recursos gráficos (iconos, logotipos y elementos visuales)  
+&emsp;&emsp;│  
+&emsp;&emsp;├── dispositivos.json # Lista de los dispositivos a monitorear  
+&emsp;&emsp;├── var.json # Lista de las variables de operación del sistema  
+&emsp;&emsp;└── *.png # Recursos gráficos (iconos, logotipos y elementos visuales)
 
 ## Uso
 
