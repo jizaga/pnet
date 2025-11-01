@@ -2,6 +2,7 @@
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 ![Hecho con Processing](https://img.shields.io/badge/Hecho%20con-Processing-orange.svg)
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 <img width="800" height="555" alt="image" src="https://github.com/user-attachments/assets/9d85fd87-1060-4a21-bffa-7bc78a9a634b" />
 
